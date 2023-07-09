@@ -1,0 +1,39 @@
+Nazwa projektu: Testowanie sklepu internetowego 
+Imię i nazwisko autora: Karolina Trawińska
+
+1) Wstęp:
+	Projekt polega na przetestowaniu strony internetowej o adresie https://www.drmaxdrogeria.pl/
+	Celem jest zidentyfikowanie błędów mogących wpłynąć nagatywnie na opinię potencjalnych klientów o sklepie oraz ich decyzję o dokonaniu zakupu.
+
+2) Opis:
+	Obiekt: https://www.drmaxdrogeria.pl/
+	
+	Lista funkcjonalności do przetestowania
+	- zakładanie konta
+	- logowanie się
+	- wyszukiwanie produktów
+	- filtrowanie i sortowanie produktów
+	- dodawanie produktów do koszyka
+	- zakup
+	
+	Wymagania systemowe
+	Windows 7 i wyższy
+	Android 8 i wyższy
+	
+	Przegądarka: Chrome
+
+3) Harmonogram testów
+	Rozpoczęcie testów: 08.07.2023
+	Zakończenie testów: 09.07.2023
+
+4) Defekty
+	Rodzaje defektów: funckonalne, wydajnościowe, wizualne
+	Ważność: krytyczny, wysoki, średni, niski
+	
+5) Narzędzia
+	- Testlink
+	- github.com
+
+6) Zespół
+	Karolina Trawińska - tester
+	
