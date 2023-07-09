@@ -13,7 +13,7 @@ Imię i nazwisko autora: Karolina Trawińska
 	- logowanie się
 	- wyszukiwanie produktów
 	- filtrowanie i sortowanie produktów
-	- dodawanie produktów do koszyka
+	- dodawanie produktu do koszyka
 	- zakup
 	
 	Wymagania systemowe
@@ -36,4 +36,5 @@ Imię i nazwisko autora: Karolina Trawińska
 
 6) Zespół
 	Karolina Trawińska - tester
+	
 	
